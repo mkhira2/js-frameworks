@@ -14,9 +14,14 @@ git clone https://github.com/mkhira2/js-frameworks.git
 cd js-frameworks
 cd [ vuejs-intro / reactjs-intro / angular-intro ]
 npm install
-npm run dev
 
+if: vuejs-intro:
+npm run dev
 localhost8080 will automatically load in the browser
+
+if: reactjs-intro:
+npm start
+localhost3000 will automatically load in the browser
 ```
 
 ## License
