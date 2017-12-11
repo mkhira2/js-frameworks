@@ -17,11 +17,15 @@ npm install
 
 if: vuejs-intro:
 npm run dev
-localhost8080 will automatically load in the browser
+localhost:8080 will automatically load in the browser
 
 if: reactjs-intro:
 npm start
-localhost3000 will automatically load in the browser
+localhost:3000 will automatically load in the browser
+
+if: angular-intro:
+ng serve
+open localhost:4200
 ```
 
 ## License
