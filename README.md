@@ -1,7 +1,7 @@
 # js-frameworks
 
 Creating 3 basic apps with:
-1) [VueJs](https://vuejs.org/)
+1) [VueJS](https://vuejs.org/)
 2) [ReactJS](https://reactjs.org/)
 3) [Angular 4](https://angular.io/)
 
