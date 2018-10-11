@@ -24,10 +24,6 @@ npm start
 localhost:3000 will automatically load in the browser
 
 if: angular-intro:
-ng serve
-open localhost:4200
+ng serve --open
+localhost:4200 will automatically load in the browser
 ```
-
-## License
-
-This project is licensed under the MIT License.
